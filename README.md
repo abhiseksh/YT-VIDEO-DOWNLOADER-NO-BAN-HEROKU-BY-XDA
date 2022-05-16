@@ -33,7 +33,8 @@ You can choose to become 'VIP' if you really need large traffic. And also, you c
 
 # How to deploy?
 ## contact @XdaAbhi on TG {First Option}
-## click on deploy to heroku '⬆️
+## click on deploy to heroku '⬆️{second option}easy one~
+```
 you can configure all the following environment variables:
 
 * APP_ID: **REQUIRED**
